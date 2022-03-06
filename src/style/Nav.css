@@ -1,0 +1,24 @@
+.homeNav ul {
+    position: relative;
+    padding-right: 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #0A5334;
+}
+
+.homeNav ul li {
+    list-style-type: none;
+}
+
+.homeNav ul li a {
+    display: block;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+    color: #C9AF60;
+    text-decoration: none;
+    font-size: 20px;
+}
